@@ -1,0 +1,9 @@
+﻿  Player.cpp
+  Actions.cpp
+c:\users\karkat\git\consolegame\consolegame\actions.cpp(40): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\karkat\git\consolegame\consolegame\factory.h(35): warning C4715: 'Factory<CharacterRole>::create': not all control paths return a value
+  Skipping... (no relevant changes detected)
+  Enemies.cpp
+  ConsoleGame.vcxproj -> C:\Users\karkat\git\ConsoleGame\Debug\ConsoleGame.exe
+  ConsoleGame.vcxproj -> C:\Users\karkat\git\ConsoleGame\Debug\ConsoleGame.pdb (Partial PDB)
